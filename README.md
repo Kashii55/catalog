@@ -43,5 +43,3 @@ The script will process the URLs, print progress to the console, and write `robl
 
 **CSV fields**
 - `url`, `name`, `best_price`, `tradeable`, `holding_period`, `type`, `created`, `description`, `material`
-
-If you'd like, I can also add a `requirements.txt` or make the scripts accept CLI args (input file, output file, ChromeDriver path). Want me to add either of those?
